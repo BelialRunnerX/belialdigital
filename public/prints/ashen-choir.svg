@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4500 5400" width="4500" height="5400">
+  
+  <g fill="none" stroke="#e8e0d4" stroke-width="18" opacity="0.9">
+    <path d="M400 4800 L900 1800 L1400 4800"/>
+    <path d="M1100 4800 L1700 1400 L2300 4800"/>
+    <path d="M2100 4800 L2800 900 L3500 4800"/>
+    <path d="M3200 4800 L3700 1600 L4200 4800"/>
+    <path d="M700 2200 Q2250 400 3800 2200"/>
+  </g>
+  <text x="2250" y="5100" text-anchor="middle" fill="#c4a35a" font-family="Georgia, serif" font-size="90" letter-spacing="28">ASHEN CHOIR</text>
+
+</svg>

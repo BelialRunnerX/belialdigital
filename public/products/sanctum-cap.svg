@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 625" width="800" height="1000">
+  <defs>
+    <radialGradient id="veil" cx="50%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="#8b1e2d" stop-opacity="0.28"/>
+      <stop offset="55%" stop-color="#07060a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="giltglow" cx="80%" cy="15%" r="40%">
+      <stop offset="0%" stop-color="#c4a35a" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#07060a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0810"/>
+      <stop offset="100%" stop-color="#07060a"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="625" fill="url(#floor)"/>
+  <rect width="500" height="625" fill="url(#veil)"/>
+  <rect width="500" height="625" fill="url(#giltglow)"/>
+  <rect x="18" y="18" width="464" height="589" fill="none" stroke="#c4a35a" stroke-opacity="0.18" stroke-width="1"/>
+  <rect x="24" y="24" width="452" height="577" fill="none" stroke="#8b1e2d" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="250" y="58" text-anchor="middle" fill="#c4a35a" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="6">BELIAL DIGITAL</text>
+  <line x1="150" y1="72" x2="350" y2="72" stroke="#c4a35a" stroke-opacity="0.35" stroke-width="1"/>
+  <g transform="translate(0,10)">
+        <ellipse cx="250" cy="280" rx="100" ry="35" fill="#121018" stroke="#c4a35a" stroke-width="1.5"/>
+        <path d="M150 280 Q150 200 250 190 Q350 200 350 280" fill="#121018" stroke="#c4a35a" stroke-width="1.5"/>
+        <path d="M150 285 Q120 300 130 320 Q200 340 250 335 Q300 340 370 320 Q380 300 350 285" fill="#0f0d14" stroke="#c4a35a" stroke-width="1.2"/>
+        <text x="250" y="250" text-anchor="middle" fill="#c4a35a" font-family="Georgia, serif" font-size="22" font-weight="bold" letter-spacing="3">BD</text>
+        </g>
+  <rect x="40" y="500" width="420" height="90" rx="4" fill="#0e0c12" fill-opacity="0.85" stroke="#c4a35a" stroke-opacity="0.2"/>
+  <text x="250" y="538" text-anchor="middle" fill="#e8e0d4" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="3">SANCTUM</text>
+  <text x="250" y="562" text-anchor="middle" fill="#9a93a5" font-family="system-ui, sans-serif" font-size="11" letter-spacing="2">BD MONOGRAM · GILT</text>
+  <text x="250" y="600" text-anchor="middle" fill="#9a93a5" font-family="system-ui, sans-serif" font-size="9" letter-spacing="3" opacity="0.6">ACCESSORIES</text>
+</svg>

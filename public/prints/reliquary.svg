@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4500 5400" width="4500" height="5400">
+  
+  <g transform="translate(2250,2500)" fill="none" stroke="#c4a35a" stroke-width="28">
+    <rect x="-420" y="-520" width="840" height="980"/>
+    <rect x="-340" y="-420" width="680" height="280"/>
+    <rect x="-340" y="-80" width="300" height="420"/>
+    <rect x="40" y="-80" width="300" height="420"/>
+    <circle cx="0" cy="-280" r="48" fill="#8b1e2d" stroke="none"/>
+  </g>
+  <text x="2250" y="3680" text-anchor="middle" fill="#e8e0d4" font-family="Georgia, serif" font-size="70" letter-spacing="24">RELIQUARY</text>
+
+</svg>

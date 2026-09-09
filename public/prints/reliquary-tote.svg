@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3600 3600" width="3600" height="3600">
+  
+  <g transform="translate(1800,1800)" fill="none" stroke="#c4a35a" stroke-width="20">
+    <rect x="-360" y="-440" width="720" height="840"/>
+    <rect x="-280" y="-340" width="560" height="220"/>
+  </g>
+  <text x="1800" y="2500" text-anchor="middle" fill="#e8e0d4" font-family="Georgia, serif" font-size="70" letter-spacing="16">RELIQUARY</text>
+
+</svg>

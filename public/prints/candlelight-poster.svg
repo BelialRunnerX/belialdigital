@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3600 5400" width="3600" height="5400">
+  
+  <rect width="3600" height="5400" fill="#07060a"/>
+  <rect x="120" y="120" width="3360" height="5160" fill="none" stroke="#c4a35a" stroke-width="6" opacity="0.45"/>
+  <rect x="180" y="180" width="3240" height="5040" fill="none" stroke="#8b1e2d" stroke-width="3" opacity="0.35"/>
+  <text x="1800" y="480" text-anchor="middle" fill="#c4a35a" font-family="Georgia, serif" font-size="48" letter-spacing="22">BELIAL DIGITAL</text>
+  <g transform="translate(1800,2000)">
+    <rect x="-40" y="-420" width="80" height="840" fill="#c4a35a"/>
+    <rect x="-220" y="-70" width="440" height="80" fill="#c4a35a"/>
+  </g>
+  <text x="1800" y="3200" text-anchor="middle" fill="#e8e0d4" font-family="Georgia, serif" font-size="140" letter-spacing="24">CANDLELIGHT</text>
+  <text x="1800" y="3380" text-anchor="middle" fill="#9a93a5" font-family="Georgia, serif" font-size="48" letter-spacing="16">A LOOKBOOK FOR THE NIGHT OFFICE</text>
+  <circle cx="1800" cy="4300" r="90" fill="#8b1e2d" opacity="0.7"/>
+
+</svg>
